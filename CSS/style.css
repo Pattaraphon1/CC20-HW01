@@ -1,0 +1,109 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: ghostwhite;
+}
+
+hr{
+  border: 0.1px solid blue;
+}
+
+h1{
+  color: blue;
+  background-color: skyblue;
+  border: 2px solid blue;
+  text-align: center;
+  border-radius: 5px;
+  margin-left: 30px;
+}
+
+.namehome{
+  width: 500px;
+}
+
+.education{
+  width: 200px;
+}
+
+.work{
+  width: 300px;
+}
+
+.contract{
+  width: 200px;
+}
+
+nav{
+  width: 100%;
+  text-align: center;
+  margin-block: 20px;
+}
+
+img{
+  width: 200px;
+  padding: 20px;
+  margin-left: 50px;
+}
+
+a{
+  text-decoration: none;
+  border: 2px solid Blue;
+  background-color: lightblue;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+form {
+  border: 1px solid lightgray;
+  padding: 32px;
+  width: 600px;
+  border-radius: 8px;
+  padding-block: 0;
+  padding-inline: 40px;
+}
+
+label{
+  width: 100%;
+  color: black;
+}
+
+input , select ,textarea {
+  width: 100%;
+  margin-bottom: 12px;
+  font-size: 20px;
+  padding: 8px;
+  border: 1px solid silver;
+  border-radius: 8px;
+}
+
+table{
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+  margin: 20px 30px;
+}
+
+tr{
+  background-color: lightsalmon;
+}
+
+th,td{
+  border: 2px solid #000000;
+  padding: 4px;
+  text-align: left;
+}
+
+.left{
+  text-align: left;
+}
+
+.center{
+  text-align: center;
+}
+
+form{
+  border: 2px solid green;
+  background-color: lightgreen;
+}
